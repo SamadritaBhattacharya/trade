@@ -1,3 +1,4 @@
+"use client"
 export default function PaginationControls() {
     return (
       <div className="flex justify-end p-4 border-t border-gray-200">
