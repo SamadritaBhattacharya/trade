@@ -1,3 +1,33 @@
+# 📦 021 Trade - Orders Page (Next.js UI Assignment)
+
+A simple Trade **Orders page UI,** focusing on **mobile responsiveness** and **UI/UX quality**.
+
+---
+
+## 🛠️ Tech Stack
+
+- ⚛️ **Next.js 14** (App Router)
+- 🎨 **Tailwind CSS** for styling
+- 💅 **Lucide-react** for icons
+- 🎞️ **Framer Motion** (for hover animations)
+- 🦴 **react-loading-skeleton** (for beautiful loading states)
+- 📁 TypeScript for type safety
+
+---
+
+## 📱 Features
+
+✅ Fully responsive layout
+✅ Recreated UI based on the provided design
+✅ Modular & reusable components
+✅ Smooth transitions and hover effects
+✅ Skeleton loaders during data fetch
+✅ Mobile-optimized view with clean stacking
+✅ Clean folder structure and scalability
+
+---
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
